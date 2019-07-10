@@ -1,0 +1,5 @@
+D:\Project\DomDemo\UIDemo\Demo1\bin\Demo1.dll
+D:\Project\DomDemo\UIDemo\Demo1\bin\Demo1.pdb
+D:\Project\DomDemo\UIDemo\Demo1\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\DomDemo\UIDemo\Demo1\obj\Debug\Demo1.dll
+D:\Project\DomDemo\UIDemo\Demo1\obj\Debug\Demo1.pdb
